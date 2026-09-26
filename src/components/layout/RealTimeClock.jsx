@@ -30,7 +30,7 @@ export const RealTimeClock = () => {
       <Clock className="w-3.5 h-3.5 text-indigo-400 animate-pulse" />
       <span className="hidden sm:inline text-slate-400">{formattedDate}</span>
       <span className="hidden sm:inline text-slate-600">•</span>
-      <span className="text-cyan-400 font-semibold">{formattedTime}</span>
+      <span className="text-text-400 font-semibold">{formattedTime}</span>
     </div>
   );
 };

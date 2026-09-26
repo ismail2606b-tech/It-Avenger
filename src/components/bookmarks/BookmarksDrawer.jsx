@@ -97,10 +97,6 @@ export const BookmarksDrawer = () => {
 
         {/* SRS Specification Alert */}
         <div className="mx-5 mt-4 p-3 rounded-xl bg-indigo-950/40 border border-indigo-500/30 text-indigo-200 text-xs space-y-1">
-          <p className="font-semibold flex items-center space-x-1">
-            <Sparkles className="w-3.5 h-3.5 text-indigo-400" />
-            <span>Dual Storage Architecture (SRS Page 13):</span>
-          </p>
           <p className="text-[11px] text-slate-300">
             • <strong>Bookmarks:</strong> Stored permanently in browser <em>LocalStorage</em>.<br/>
             • <strong>Personal Notes:</strong> Kept safely for current browser session via <em>SessionStorage</em>.
@@ -229,7 +225,7 @@ export const BookmarksDrawer = () => {
           <div className="p-5 border-t border-white/10 bg-slate-900/90 space-y-2">
             <button
               onClick={exportBookmarks}
-              className="w-full flex items-center justify-center space-x-2 py-3 px-4 rounded-xl bg-gradient-to-r from-rose-600 to-indigo-600 hover:from-rose-500 hover:to-indigo-500 text-white font-bold text-xs shadow-lg shadow-rose-600/20 active:scale-95 transition-all"
+              className="w-full flex items-center justify-center space-x-2 py-3 px-4 rounded-xl bg-gradient-to-br from-[#030303] via-[#160812] to-[#db2777] text-white font-bold text-xs shadow-lg shadow-rose-600/20 active:scale-95 transition-all"
             >
               <Download className="w-4 h-4" />
               <span>Export Bookmarks as Formatted List (.md)</span>

@@ -31,12 +31,13 @@ import { BookmarksDrawer } from './components/bookmarks/BookmarksDrawer';
 import { AuthModal } from './components/auth/AuthModal';
 import { FandomChatbot } from './components/chatbot/FandomChatbot';
 import { AudioPlayer } from './components/media/AudioPlayer';
+import Callaction from './components/layout/Callaction';
 
 export function App() {
   const { activeTab } = useFandom();
 
   return (
-    <div className="min-h-screen flex flex-col bg-slate-950 text-slate-100 selection:bg-indigo-500 selection:text-white">
+    <div className="min-h-screen flex flex-col bg-gradient-to-br from-[#030303] via-[#160812] to-[#db2777] text-slate-100 selection:bg-indigo-500 selection:text-white">
       {/* Top Navbar */}
       <Navbar />
 
@@ -59,7 +60,7 @@ export function App() {
           </div>
         )}
 
-        {activeTab === 'category' && <CategoryHub />}
+        {activeTab === 'category' &&  <CategoryHub /> }
         {activeTab === 'characters' && <CharacterProfiles />}
         {activeTab === 'media' && <MediaHub />}
         {activeTab === 'articles' && <ArticlesSection />}
@@ -68,6 +69,7 @@ export function App() {
         {activeTab === 'merchandise' && <MerchandiseShowcase />}
         {activeTab === 'contact' && <ContactUs />}
         {activeTab === 'about' && <AboutUs />}
+        <Callaction/>
       </main>
 
       {/* Global Modals & Drawers */}

@@ -113,7 +113,7 @@ export const HeroBanner = () => {
             <div className="flex flex-wrap items-center gap-4 pt-2">
               <button
                 onClick={() => navigateTo('category', activeSpotlight.category)}
-                className="flex items-center space-x-2 px-6 py-3.5 rounded-xl bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 hover:from-indigo-500 hover:to-pink-500 text-white font-bold text-sm shadow-xl shadow-indigo-600/30 active:scale-95 transition-all group"
+                className="flex items-center space-x-2 px-6 py-3.5 rounded-xl bg-gradient-to-br from-[#030303] via-[#160812] to-[#db2777] hover:from-indigo-500 hover:to-pink-500 text-white font-bold text-sm shadow-xl shadow-indigo-600/30 active:scale-95 transition-all group"
               >
                 <Compass className="w-4 h-4 group-hover:rotate-45 transition-transform" />
                 <span>Explore {activeSpotlight.title} Hub</span>
@@ -142,7 +142,7 @@ export const HeroBanner = () => {
                   onClick={() => setCurrentSlide(idx)}
                   className={`h-2 rounded-full transition-all duration-300 ${
                     idx === currentSlide 
-                      ? 'w-8 bg-gradient-to-r from-indigo-500 to-pink-500 shadow-md' 
+                      ? 'w-8 bg-gradient-to-br from-[#030303] via-[#160812] to-[#db2777] shadow-md' 
                       : 'w-2 bg-slate-700 hover:bg-slate-500'
                   }`}
                   aria-label={`Slide ${idx + 1}`}
@@ -162,9 +162,6 @@ export const HeroBanner = () => {
                 <span className="text-xs font-bold uppercase tracking-wider text-slate-300 flex items-center space-x-1.5">
                   <Zap className="w-4 h-4 text-amber-400" />
                   <span>Portal Telemetry</span>
-                </span>
-                <span className="px-2 py-0.5 rounded text-[10px] font-bold bg-indigo-500/20 text-indigo-400 border border-indigo-500/30">
-                  SPA Mode
                 </span>
               </div>
 
@@ -208,14 +205,6 @@ export const HeroBanner = () => {
                   </div>
                   <div className="text-[11px] text-slate-400 font-medium">Trailers & Audio</div>
                 </div>
-              </div>
-
-              <div className="pt-2 border-t border-white/5 flex items-center justify-between text-[11px] text-slate-400">
-                <span className="flex items-center space-x-1">
-                  <ShieldCheck className="w-3.5 h-3.5 text-emerald-400" />
-                  <span>No Backend Required</span>
-                </span>
-                <span className="text-indigo-400 font-semibold">100% Client-Side</span>
               </div>
             </div>
           </div>

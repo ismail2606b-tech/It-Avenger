@@ -92,9 +92,9 @@ export const Navbar = () => {
             <div>
               <div className="flex items-center space-x-1">
                 <span className="text-xl sm:text-2xl font-black tracking-tight text-white group-hover:text-transparent group-hover:bg-clip-text group-hover:bg-gradient-to-r group-hover:from-indigo-400 group-hover:via-purple-300 group-hover:to-pink-400 transition-all">
-                  FANDOM<span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-indigo-400">VERSE</span>
+                  FANDOM<span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-pink-400">VERSE</span>
                 </span>
-                <span className="hidden sm:inline-block px-1.5 py-0.5 text-[9px] uppercase tracking-wider font-extrabold text-cyan-400 bg-cyan-950/70 border border-cyan-500/40 rounded">
+                <span className="hidden sm:inline-block px-1.5 py-0.5 text-[9px] uppercase tracking-wider font-extrabold text-pink-400 bg-pink-950/70 border border-pink-500/40 rounded">
                  FDV
                 </span>
               </div>
@@ -108,7 +108,7 @@ export const Navbar = () => {
           <nav className="hidden xl:flex items-center space-x-1">
             <button
               onClick={() => navigateTo('home')}
-              className={`px-3 py-2 rounded-lg text-sm font-medium transition-all ${
+              className={`px-1 py-1 rounded-lg text-sm font-medium transition-all ${
                 activeTab === 'home' 
                   ? 'text-white bg-white/10 shadow-sm' 
                   : 'text-slate-300 hover:text-white hover:bg-white/5'
@@ -122,7 +122,7 @@ export const Navbar = () => {
               <button
                 onClick={() => setCategoryDropdownOpen(!categoryDropdownOpen)}
                 onBlur={() => setTimeout(() => setCategoryDropdownOpen(false), 200)}
-                className={`flex items-center space-x-1 px-3 py-2 rounded-lg text-sm font-medium transition-all ${
+                className={`flex items-center space-x-1 px-1 py-1 rounded-lg text-sm font-medium transition-all ${
                   activeTab === 'category' 
                     ? 'text-indigo-400 bg-indigo-500/10 border border-indigo-500/20' 
                     : 'text-slate-300 hover:text-white hover:bg-white/5'
@@ -145,7 +145,7 @@ export const Navbar = () => {
                           navigateTo('category', cat.id);
                           setCategoryDropdownOpen(false);
                         }}
-                        className={`flex items-center justify-between px-3 py-2 rounded-xl text-xs font-medium text-left transition-all ${
+                        className={`flex items-center justify-between px-1 py-1 rounded-xl text-xs font-medium text-left transition-all ${
                           selectedCategory === cat.id && activeTab === 'category'
                             ? 'bg-indigo-600/30 text-white border border-indigo-500/40'
                             : 'text-slate-300 hover:text-white hover:bg-white/10'
@@ -167,7 +167,7 @@ export const Navbar = () => {
 
             <button
               onClick={() => navigateTo('characters')}
-              className={`px-3 py-2 rounded-lg text-sm font-medium transition-all ${
+              className={`px-1 py-1 rounded-lg text-sm font-medium transition-all ${
                 activeTab === 'characters' 
                   ? 'text-white bg-white/10' 
                   : 'text-slate-300 hover:text-white hover:bg-white/5'
@@ -178,7 +178,7 @@ export const Navbar = () => {
 
             <button
               onClick={() => navigateTo('media')}
-              className={`px-3 py-2 rounded-lg text-sm font-medium transition-all ${
+              className={`px-1 py-1 rounded-lg text-sm font-medium transition-all ${
                 activeTab === 'media' 
                   ? 'text-white bg-white/10' 
                   : 'text-slate-300 hover:text-white hover:bg-white/5'
@@ -189,7 +189,7 @@ export const Navbar = () => {
 
             <button
               onClick={() => navigateTo('articles')}
-              className={`px-3 py-2 rounded-lg text-sm font-medium transition-all ${
+              className={`px-1 py-1 rounded-lg text-sm font-medium transition-all ${
                 activeTab === 'articles' 
                   ? 'text-white bg-white/10' 
                   : 'text-slate-300 hover:text-white hover:bg-white/5'
@@ -200,7 +200,7 @@ export const Navbar = () => {
 
             <button
               onClick={() => navigateTo('events')}
-              className={`px-3 py-2 rounded-lg text-sm font-medium transition-all ${
+              className={`px-1 py-1 rounded-lg text-sm font-medium transition-all ${
                 activeTab === 'events' 
                   ? 'text-white bg-white/10' 
                   : 'text-slate-300 hover:text-white hover:bg-white/5'
@@ -209,20 +209,11 @@ export const Navbar = () => {
               Events
             </button>
 
-            <button
-              onClick={() => navigateTo('releases')}
-              className={`px-3 py-2 rounded-lg text-sm font-medium transition-all ${
-                activeTab === 'releases' 
-                  ? 'text-white bg-white/10' 
-                  : 'text-slate-300 hover:text-white hover:bg-white/5'
-              }`}
-            >
-              Releases
-            </button>
+           
 
             <button
               onClick={() => navigateTo('merchandise')}
-              className={`flex items-center space-x-1.5 px-3 py-2 rounded-lg text-sm font-medium transition-all ${
+              className={`flex items-center space-x-1.5 px-1 py-1 rounded-lg text-sm font-medium transition-all ${
                 activeTab === 'merchandise' 
                   ? 'text-amber-300 bg-amber-500/10 border border-amber-500/30' 
                   : 'text-slate-300 hover:text-amber-300 hover:bg-amber-500/5'
@@ -320,13 +311,13 @@ export const Navbar = () => {
                   </button>
                   {userDropdownOpen && (
                     <div className="absolute right-0 mt-2 w-48 rounded-xl bg-slate-900 border border-white/15 p-2 shadow-2xl backdrop-blur-xl z-50">
-                      <div className="px-3 py-2 border-b border-white/10 text-xs">
+                      <div className="px-1 py-1 border-b border-white/10 text-xs">
                         <p className="font-semibold text-white">{user.username}</p>
                         <p className="text-[10px] text-slate-400 truncate">{user.email}</p>
                       </div>
                       <button
                         onClick={logout}
-                        className="w-full text-left px-3 py-2 mt-1 rounded-lg text-xs font-medium text-rose-400 hover:bg-rose-500/10 transition-colors"
+                        className="w-full text-left px-1 py-1 mt-1 rounded-lg text-xs font-medium text-rose-400 hover:bg-rose-500/10 transition-colors"
                       >
                         Sign Out (Guest)
                       </button>
@@ -336,7 +327,7 @@ export const Navbar = () => {
               ) : (
                 <button
                   onClick={() => setIsAuthModalOpen(true)}
-                  className="flex items-center space-x-1.5 px-3 py-2 rounded-xl bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white text-xs font-bold transition-all shadow-lg shadow-indigo-600/20 active:scale-95"
+                  className="flex items-center space-x-1.5 px-1 py-1 rounded-xl bg-gradient-to-br from-[#030303] via-[#160812] to-[#db2777] hover:from-indigo-500 hover:to-purple-500 text-white text-xs font-bold transition-all shadow-lg shadow-indigo-600/20 active:scale-95"
                 >
                   <User className="w-3.5 h-3.5" />
                   <span className="hidden sm:inline">Sign In</span>

@@ -10,26 +10,22 @@
   },
   "teamMembers": [
     {
-      "name": "Alexander Hayes",
-      "role": "Lead Frontend Architect & UI/UX Designer",
+      "name": "Munawar Khan",
       "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
       "bio": "Builds the structure and visual flow of the app so it feels smooth, easy to use, and not like a cluttered fan directory from the early 2000s."
     },
     {
-      "name": "Mei-Ling Chen",
-      "role": "Content Curator & Data Engineer",
+      "name": "Ismail Imran",
       "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
       "bio": "Keeps the fandom content organized and readable, from character details to event and media data that actually makes sense when you browse it."
     },
     {
-      "name": "Marcus Aurelius Vance",
-      "role": "Interaction Designer & Bot Logic Engineer",
+      "name": "Ahmed Raza",
       "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
       "bio": "Handles the interactive bits, from the chatbot logic to the bookmark system and the shopping cart behavior that keeps the demo feeling alive."
     },
     {
-      "name": "Seraphina Vance",
-      "role": "QA Specialist & Accessibility Advocate",
+      "name": "Ubaid Raza",
       "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80",
       "bio": "Makes sure the site is still usable on mobile, easy to navigate, and not frustrating for anyone using screen readers or smaller screens."
     }

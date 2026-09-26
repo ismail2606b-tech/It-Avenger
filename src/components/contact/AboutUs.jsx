@@ -108,9 +108,9 @@ export const AboutUs = () => {
                 </p>
               </div>
 
-              <p className="text-xs text-slate-400 leading-relaxed">
+              {/* <p className="text-xs text-slate-400 leading-relaxed">
                 {member.bio}
-              </p>
+              </p> */}
             </div>
           ))}
         </div>

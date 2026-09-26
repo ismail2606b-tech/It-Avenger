@@ -118,6 +118,12 @@ export const Footer = () => {
                   Global Search Discovery
                 </button>
               </li>
+              <li>
+                   <button onClick={() => navigateTo('releases')} className="hover:text-white transition-colors">
+                   Releases
+                </button>
+               
+              </li>
             </ul>
           </div>
         </div>
@@ -127,7 +133,6 @@ export const Footer = () => {
           <p>© Aptech Limited. All rights reserved. Built for TechWiz 7 Championship.</p>
           <div className="flex items-center space-x-1 text-slate-400">
             <span>Designed with</span>
-            <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" />
             <span>for Fandom Enthusiasts Worldwide</span>
           </div>
         </div>

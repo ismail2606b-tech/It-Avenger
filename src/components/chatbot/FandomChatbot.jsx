@@ -101,7 +101,7 @@ export const FandomChatbot = () => {
         {!isOpen && (
           <button
             onClick={() => setIsOpen(true)}
-            className="group relative flex items-center space-x-2.5 p-3.5 sm:px-4 sm:py-3.5 rounded-full bg-gradient-to-r from-indigo-600 via-purple-600 to-pink-600 text-white shadow-2xl shadow-indigo-600/50 hover:scale-105 active:scale-95 transition-all duration-300 border border-white/20"
+            className="group relative flex items-center space-x-2.5 p-3.5 sm:px-4 sm:py-3.5 rounded-full bg-gradient-to-br from-[#030303] via-[#160812] to-[#db2777] text-white shadow-2xl shadow-indigo-600/50 hover:scale-105 active:scale-95 transition-all duration-300 border border-white/20"
             aria-label="Open AI Chatbot Assistant"
           >
             <div className="relative">
@@ -121,7 +121,7 @@ export const FandomChatbot = () => {
         <div className="fixed bottom-6 right-6 z-50 w-[92vw] sm:w-[410px] h-[580px] max-h-[85vh] rounded-3xl bg-slate-950/95 border border-indigo-500/40 shadow-2xl backdrop-blur-2xl flex flex-col justify-between overflow-hidden animate-in zoom-in-95 duration-200">
           
           {/* Header */}
-          <div className="p-4 bg-gradient-to-r from-indigo-950/90 via-purple-950/80 to-slate-950 border-b border-white/10 flex items-center justify-between">
+          <div className="p-4 bg-gradient-to-br from-[#030303] via-[#160812] to-[#db2777] border-b border-white/10 flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <div className="relative w-9 h-9 rounded-xl bg-gradient-to-tr from-indigo-500 to-pink-500 p-0.5 shadow-md">
                 <div className="w-full h-full bg-slate-950 rounded-[10px] flex items-center justify-center">
@@ -231,7 +231,7 @@ export const FandomChatbot = () => {
               <button
                 type="submit"
                 disabled={!inputText.trim()}
-                className="p-2.5 rounded-xl bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 disabled:opacity-40 text-white transition-all shadow-md"
+                className="p-2.5 rounded-xl bg-gradient-to-br from-[#030303] via-[#160812] to-[#db2777] disabled:opacity-40 text-white transition-all shadow-md"
                 aria-label="Send Message"
               >
                 <Send className="w-4 h-4" />
