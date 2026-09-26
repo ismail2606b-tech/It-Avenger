@@ -1,0 +1,93 @@
+[
+  {
+    "id": "anime",
+    "name": "Anime",
+    "tagline": "Big feelings, huge battles, and the kind of scenes you keep thinking about for days.",
+    "icon": "Flame",
+    "accentColor": "#f43f5e",
+    "gradient": "from-rose-500/20 via-rose-600/10 to-transparent",
+    "borderColor": "border-rose-500/40",
+    "badgeColor": "bg-rose-500/10 text-rose-400 border-rose-500/30",
+    "heroImage": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1200&q=80",
+    "description": "From huge anime drops to hidden gems, this is where fans talk about favorite fights, weird lore, emotional arcs, and the shows that just hit different.",
+    "subtags": ["Shonen", "Seinen", "Isekai", "Fantasy", "Action", "Mecha", "Romance", "Studio Ghibli"]
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming",
+    "tagline": "Open worlds, boss fights, and the games that keep you up past midnight.",
+    "icon": "Gamepad2",
+    "accentColor": "#10b981",
+    "gradient": "from-emerald-500/20 via-emerald-600/10 to-transparent",
+    "borderColor": "border-emerald-500/40",
+    "badgeColor": "bg-emerald-500/10 text-emerald-400 border-emerald-500/30",
+    "heroImage": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+    "description": "From RPGs with actual emotional weight to speedrun chaos and co-op nights, this section keeps the best gaming stuff in one spot.",
+    "subtags": ["Open World", "Action RPG", "Soulslike", "Sci-Fi", "FPS", "Indie", "Retro", "Esports"]
+  },
+  {
+    "id": "movies",
+    "name": "Movies",
+    "tagline": "Big-screen moments, wild lore, and the kind of trailers that make everyone stop scrolling.",
+    "icon": "Film",
+    "accentColor": "#f59e0b",
+    "gradient": "from-amber-500/20 via-amber-600/10 to-transparent",
+    "borderColor": "border-amber-500/40",
+    "badgeColor": "bg-amber-500/10 text-amber-400 border-amber-500/30",
+    "heroImage": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=80",
+    "description": "Superhero chaos, sci-fi spectacle, emotional thrillers, and the movie moments everyone ends up debating for weeks.",
+    "subtags": ["Blockbuster", "Sci-Fi Epic", "Superhero", "Thriller", "IMAX", "Box Office", "Classics"]
+  },
+  {
+    "id": "tv-shows",
+    "name": "TV Shows",
+    "tagline": "The shows you probably already started and then got emotionally attached to.",
+    "icon": "Tv",
+    "accentColor": "#6366f1",
+    "gradient": "from-indigo-500/20 via-indigo-600/10 to-transparent",
+    "borderColor": "border-indigo-500/40",
+    "badgeColor": "bg-indigo-500/10 text-indigo-400 border-indigo-500/30",
+    "heroImage": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=1200&q=80",
+    "description": "Whether it is a bingeable series, a final-season meltdown, or a theory that just won't quit, this is the TV fandom lane.",
+    "subtags": ["Drama", "Mystery", "Fantasy", "Animation", "Crime", "Sci-Fi", "Miniseries", "Streaming"]
+  },
+  {
+    "id": "k-pop",
+    "name": "K-Pop",
+    "tagline": "Catch the songs, the choreography, and the fandom energy everyone keeps talking about.",
+    "icon": "Music",
+    "accentColor": "#ec4899",
+    "gradient": "from-pink-500/20 via-pink-600/10 to-transparent",
+    "borderColor": "border-pink-500/40",
+    "badgeColor": "bg-pink-500/10 text-pink-400 border-pink-500/30",
+    "heroImage": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1200&q=80",
+    "description": "Comebacks, choreography breakdowns, lightsticks, albums, and the kind of fan culture that makes a song feel like a whole universe.",
+    "subtags": ["Boy Groups", "Girl Groups", "Soloists", "Comebacks", "Dance Practice", "Lightsticks", "Music Videos"]
+  },
+  {
+    "id": "comics",
+    "name": "Comics",
+    "tagline": "Panels, plot twists, and storylines that keep fans arguing for years.",
+    "icon": "BookOpen",
+    "accentColor": "#eab308",
+    "gradient": "from-yellow-500/20 via-yellow-600/10 to-transparent",
+    "borderColor": "border-yellow-500/40",
+    "badgeColor": "bg-yellow-500/10 text-yellow-400 border-yellow-500/30",
+    "heroImage": "https://images.unsplash.com/photo-1569003339405-ea396a5a8a90?auto=format&fit=crop&w=1200&q=80",
+    "description": "From huge superhero runs to indie gems, this is where comic lore, cover art, and story arcs all meet.",
+    "subtags": ["Marvel", "DC Comics", "Indie Comics", "Graphic Novels", "Superheroes", "Dark Fantasy", "First Editions"]
+  },
+  {
+    "id": "manga",
+    "name": "Manga",
+    "tagline": "Ink-heavy stories, brutal endings, and the art that stays in your head.",
+    "icon": "Sparkles",
+    "accentColor": "#8b5cf6",
+    "gradient": "from-purple-500/20 via-purple-600/10 to-transparent",
+    "borderColor": "border-purple-500/40",
+    "badgeColor": "bg-purple-500/10 text-purple-400 border-purple-500/30",
+    "heroImage": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80",
+    "description": "Read about manga classics, intense storytelling, manga art, and the stories that pulled people in hard and never let go.",
+    "subtags": ["Shonen Jump", "Dark Fantasy", "Manhwa", "Supernatural", "Slice of Life", "Psychological", "Mangaka"]
+  }
+]

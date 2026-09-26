@@ -1,0 +1,211 @@
+[
+  {
+    "id": "gal-anime-1",
+    "categoryId": "anime",
+    "title": "Demon Slayer: Flame & Sun Breathing Visual",
+    "franchise": "Demon Slayer",
+    "description": "Tanjiro and Kyojuro Rengoku face the fight with flame effects filling the frame.",
+    "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "Studio Ufotable Archive",
+    "tags": ["Tanjiro", "Breathing Styles", "Key Visual"]
+  },
+  {
+    "id": "gal-anime-2",
+    "categoryId": "anime",
+    "title": "Neon Shibuya & Jujutsu Sorcery",
+    "franchise": "Jujutsu Kaisen",
+    "description": "Shibuya's familiar streets take on a different mood after dark, with the city's lights set against the tension of Jujutsu Kaisen.",
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "MAPPA Animation Concept Art",
+    "tags": ["Shibuya", "Gojo", "Atmosphere"]
+  },
+  {
+    "id": "gal-anime-3",
+    "categoryId": "anime",
+    "title": "Frieren's Astral Meadow Journey",
+    "franchise": "Frieren",
+    "description": "Frieren pauses in a quiet northern meadow, surrounded by soft morning light and open countryside.",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "2560 x 1440 (2K)",
+    "artist": "Madhouse Environmental Studio",
+    "tags": ["Scenery", "Frieren", "Fantasy Landscape"]
+  },
+  {
+    "id": "gal-gaming-1",
+    "categoryId": "gaming",
+    "title": "The Golden Erdtree from Limgrave Overlook",
+    "franchise": "Elden Ring",
+    "description": "From a high overlook, the Erdtree rises above the distant landscape of the Lands Between.",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "FromSoftware Official Concept",
+    "tags": ["Erdtree", "Tarnished", "Open World"]
+  },
+  {
+    "id": "gal-gaming-2",
+    "categoryId": "gaming",
+    "title": "Night City Megabuilding Skyline in Rain",
+    "franchise": "Cyberpunk 2077",
+    "description": "Rain and neon signs turn a Night City street into a patchwork of reflections, with Watson's tall buildings in the background.",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "CD PROJEKT RED Visual Team",
+    "tags": ["Night City", "Cyberpunk", "Ray Tracing"]
+  },
+  {
+    "id": "gal-gaming-3",
+    "categoryId": "gaming",
+    "title": "Floating Islands of Hyrule Skies",
+    "franchise": "The Legend of Zelda",
+    "description": "Floating islands, old Zonai ruins, and patches of golden foliage make Hyrule's sky feel like a world of its own.",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "2560 x 1440 (2K)",
+    "artist": "Nintendo EPD Concept Dept",
+    "tags": ["Zelda", "Sky Islands", "Zonai"]
+  },
+  {
+    "id": "gal-movies-1",
+    "categoryId": "movies",
+    "title": "Arrakis Desert Storm & Shai-Hulud",
+    "franchise": "Dune",
+    "description": "A sandworm breaks through the dunes of Arrakis, dwarfing everything around it beneath the desert light.",
+    "image": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "Legendary Pictures VFX Stills",
+    "tags": ["Dune", "Sci-Fi", "Sandworm"]
+  },
+  {
+    "id": "gal-movies-2",
+    "categoryId": "movies",
+    "title": "Multiverse Nexus & Web of Life and Destiny",
+    "franchise": "Spider-Man",
+    "description": "A web of portals hints at the many realities connected through the Spider-Society.",
+    "image": "https://images.unsplash.com/photo-1604200213928-ba3cf4fc8436?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "Sony Pictures Imageworks",
+    "tags": ["Spider-Verse", "Multiverse", "Abstract Art"]
+  },
+  {
+    "id": "gal-movies-3",
+    "categoryId": "movies",
+    "title": "Avengers Assemble at the Crater of Compound",
+    "franchise": "Marvel Avengers",
+    "description": "The Avengers face Thanos's forces in the final battle from Avengers: Endgame.",
+    "image": "https://images.unsplash.com/photo-1635863138275-d9b33299680b?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "Marvel Studios Production Gallery",
+    "tags": ["Marvel", "Endgame", "Cinematic"]
+  },
+  {
+    "id": "gal-tv-1",
+    "categoryId": "tv-shows",
+    "title": "Hawkins 1983 Starcourt Mall & Neon Afterdark",
+    "franchise": "Stranger Things",
+    "description": "Starcourt Mall brings back the bright colors and familiar sights of Hawkins before the danger returns.",
+    "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "2560 x 1440 (2K)",
+    "artist": "Netflix Concept Artists",
+    "tags": ["Stranger Things", "80s Retro", "Hawkins"]
+  },
+  {
+    "id": "gal-tv-2",
+    "categoryId": "tv-shows",
+    "title": "Hexgates of Piltover: The City of Progress",
+    "franchise": "Arcane",
+    "description": "Piltover's tall buildings and Hextech ships look out over the river in this view of the City of Progress.",
+    "image": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "Fortiche Production Matte Painting",
+    "tags": ["Arcane", "Piltover", "Steampunk"]
+  },
+  {
+    "id": "gal-tv-3",
+    "categoryId": "tv-shows",
+    "title": "Caraxes The Blood Wyrm in the Stepstones",
+    "franchise": "House of the Dragon",
+    "description": "Caraxes flies over the rocky Stepstones as Daemon's forces clash with enemy ships below.",
+    "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "HBO VFX Stills",
+    "tags": ["House of the Dragon", "Targaryen", "Dragons"]
+  },
+  {
+    "id": "gal-kpop-1",
+    "categoryId": "k-pop",
+    "title": "BTS World Tour Stadium Ocean of Purple Lights",
+    "franchise": "BTS",
+    "description": "A sea of lightsticks fills the stadium during 'Mikrokosmos', with fans glowing in purple together.",
+    "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "HYBE Live Production Photos",
+    "tags": ["BTS", "Lightstick Ocean", "Concert"]
+  },
+  {
+    "id": "gal-kpop-2",
+    "categoryId": "k-pop",
+    "title": "BLACKPINK Coachella Headline Fireworks & Stage",
+    "franchise": "BLACKPINK",
+    "description": "BLACKPINK's Coachella set brought together bold stage effects, fireworks, and striking costume details.",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "Goldenvoice Photography",
+    "tags": ["BLACKPINK", "Coachella", "Pyrotechnics"]
+  },
+  {
+    "id": "gal-kpop-3",
+    "categoryId": "k-pop",
+    "title": "NewJeans Retro Y2K Powerpuff Girls Visual",
+    "franchise": "NewJeans",
+    "description": "A playful Y2K-inspired visual that draws on the colorful style of NewJeans' 'Get Up' era.",
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "2560 x 1440 (2K)",
+    "artist": "ADOR Creative Team",
+    "tags": ["NewJeans", "Y2K", "Pop Art"]
+  },
+  {
+    "id": "gal-comics-1",
+    "categoryId": "comics",
+    "title": "Gotham City Rooftops: The Dark Knight Gargoyle Vigil",
+    "franchise": "DC Comics",
+    "description": "A stone gargoyle watches over Gotham's rooftops as rain settles across the city below.",
+    "image": "https://images.unsplash.com/photo-1509281373149-e957c6296406?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "DC Comics Illustrators",
+    "tags": ["Batman", "Gotham", "Noir"]
+  },
+  {
+    "id": "gal-comics-2",
+    "categoryId": "comics",
+    "title": "Metropolis Daily Planet Globe at Golden Hour",
+    "franchise": "DC Comics",
+    "description": "The Daily Planet globe stands above Metropolis as the last light of the day falls across the city.",
+    "image": "https://images.unsplash.com/photo-1569003339405-ea396a5a8a90?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "DC Comics Archives",
+    "tags": ["Superman", "Metropolis", "Art Deco"]
+  },
+  {
+    "id": "gal-manga-1",
+    "categoryId": "manga",
+    "title": "Berserk Eclipse & God Hand Dimension",
+    "franchise": "Berserk",
+    "description": "The Eclipse surrounds Guts with the unsettling imagery and scale that define Berserk's darkest moments.",
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "Kentaro Miura Studio Gaga",
+    "tags": ["Berserk", "Eclipse", "Master Inks"]
+  },
+  {
+    "id": "gal-manga-2",
+    "categoryId": "manga",
+    "title": "Solo Leveling: Shadow Monarch Arise Legion",
+    "franchise": "Solo Leveling",
+    "description": "Jin-woo's shadow army gathers behind him, ready to rise at his command.",
+    "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1400&q=85",
+    "resolution": "3840 x 2160 (4K)",
+    "artist": "REDICE Studio",
+    "tags": ["Shadow Army", "Sung Jin-woo", "Manhwa"]
+  }
+]

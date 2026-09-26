@@ -1,0 +1,597 @@
+[
+  {
+    "id": "char-anime-1",
+    "categoryId": "anime",
+    "franchise": "Demon Slayer",
+    "name": "Tanjiro Kamado",
+    "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=800&q=80",
+    "series": "Demon Slayer: Kimetsu no Yaiba",
+    "biography": "Tanjiro joins the Demon Slayer Corps after a demon attacks his family and turns his sister Nezuko into one. He is determined to find a way to help her, and his kindness stays with him even when a fight gets difficult. Along the way, he learns Water Breathing and the Sun Breathing style known as Hinokami Kagura.",
+    "traits": {
+      "role": "Demon Slayer (Demon Slayer Corps)",
+      "abilities": "Sun Breathing, Water Breathing, Keen Sense of Smell, Demon Slayer Mark",
+      "voiceActor": "Natsuki Hanae / Zach Aguilar",
+      "debut": "Chapter 1 / Episode 1",
+      "quote": "No matter how many people you may lose, you have no choice but to go on living.",
+      "powerLevel": 92
+    }
+  },
+  {
+    "id": "char-anime-2",
+    "categoryId": "anime",
+    "franchise": "Attack on Titan",
+    "name": "Levi Ackerman",
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80",
+    "series": "Attack on Titan (Shingeki no Kyojin)",
+    "biography": "Levi is the captain of the Survey Corps' Special Operations Squad and one of its most capable soldiers. He can seem distant, but he cares deeply about the people under his command. His skill with the blades makes him a formidable opponent for the Titans.",
+    "traits": {
+      "role": "Captain of the Special Operations Squad",
+      "abilities": "Ackerman Awakening, God-tier Maneuver Gear Mastery, Tactical Genius",
+      "voiceActor": "Hiroshi Kamiya / Matthew Mercer",
+      "debut": "Chapter 9 / Episode 4",
+      "quote": "The only thing we're allowed to do is believe that we won't regret the choice we made.",
+      "powerLevel": 98
+    }
+  },
+  {
+    "id": "char-anime-3",
+    "categoryId": "anime",
+    "franchise": "Jujutsu Kaisen",
+    "name": "Satoru Gojo",
+    "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
+    "series": "Jujutsu Kaisen",
+    "biography": "Gojo is a teacher at Tokyo Jujutsu High and one of the strongest sorcerers around. His Six Eyes and Limitless technique make him a difficult opponent, but he is just as focused on preparing his students to build a better future for the jujutsu world.",
+    "traits": {
+      "role": "Special Grade Jujutsu Sorcerer / Teacher",
+      "abilities": "Limitless, Infinity, Cursed Technique Reversal: Red, Cursed Technique Lapse: Blue, Hollow Purple, Domain: Unlimited Void",
+      "voiceActor": "Yuichi Nakamura / Kaiji Tang",
+      "debut": "Chapter 1 / Episode 1",
+      "quote": "Don't worry, I'm the strongest.",
+      "powerLevel": 99
+    }
+  },
+  {
+    "id": "char-anime-4",
+    "categoryId": "anime",
+    "franchise": "One Piece",
+    "name": "Monkey D. Luffy",
+    "image": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=800&q=80",
+    "series": "One Piece",
+    "biography": "Luffy sets out to find the One Piece and become King of the Pirates, bringing the Straw Hat crew along for the ride. He is cheerful, stubborn, and fiercely loyal to his friends. His Devil Fruit powers have grown in surprising ways, including the form known as Gear 5.",
+    "traits": {
+      "role": "Captain of the Straw Hat Pirates / Emperor",
+      "abilities": "Gear 5 (Sun God Nika), Advanced Conqueror's Haki, Rubber Physiology",
+      "voiceActor": "Mayumi Tanaka / Colleen Clinkenbeard",
+      "debut": "Chapter 1 / Episode 1",
+      "quote": "If you don't take risks, you can't create a future!",
+      "powerLevel": 97
+    }
+  },
+  {
+    "id": "char-anime-5",
+    "categoryId": "anime",
+    "franchise": "Frieren: Beyond Journey's End",
+    "name": "Frieren",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+    "series": "Frieren: Beyond Journey's End",
+    "biography": "Frieren is an elf who helped the Hero Party defeat the Demon King. Because she lives far longer than humans, she did not realize how much her short journey with Himmel meant to her until it was over. Her later travels give her a chance to understand those memories and the people she meets along the way.",
+    "traits": {
+      "role": "Elven Great Mage",
+      "abilities": "Zoltraak offensive magic, Mana suppression camouflage, Ancient spell analysis",
+      "voiceActor": "Atsumi Tanezaki / Mallorie Rodak",
+      "debut": "Chapter 1 / Episode 1",
+      "quote": "It was only ten years. But it was that tenth of a percent of my life that changed me forever.",
+      "powerLevel": 96
+    }
+  },
+  {
+    "id": "char-gaming-1",
+    "categoryId": "gaming",
+    "franchise": "Elden Ring",
+    "name": "Malenia, Blade of Miquella",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80",
+    "series": "Elden Ring",
+    "biography": "Malenia is an Empyrean demigod who has lived with the Scarlet Rot since birth. She is a skilled swordswoman, and her battle at the Haligtree is one of the toughest challenges in Elden Ring. Her loyalty to her twin brother Miquella is central to her story.",
+    "traits": {
+      "role": "Demigod / Empyrean Warrior",
+      "abilities": "Waterfowl Dance, Scarlet Aeonia bloom, Life-steal on strike, Prosthetic katana mastery",
+      "voiceActor": "Pip Torrens / Pippa Bennett-Warner",
+      "debut": "Elden Ring (2022)",
+      "quote": "I am Malenia, Blade of Miquella. And I have never known defeat.",
+      "powerLevel": 99
+    }
+  },
+  {
+    "id": "char-gaming-2",
+    "categoryId": "gaming",
+    "franchise": "The Witcher",
+    "name": "Geralt of Rivia",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=800&q=80",
+    "series": "The Witcher 3: Wild Hunt",
+    "biography": "Geralt is a Witcher: a monster hunter trained to survive dangerous work. He tries to follow his own code in a world where the right choice is rarely obvious. In The Witcher 3, he searches for Ciri while dealing with monsters, politics, and old friends along the way.",
+    "traits": {
+      "role": "Master Witcher (School of the Wolf)",
+      "abilities": "Witcher Signs (Igni, Quen, Aard, Axii, Yrden), Alchemical concoctions, Enhanced senses",
+      "voiceActor": "Doug Cockle",
+      "debut": "The Witcher (2007)",
+      "quote": "Evil is evil. Lesser, greater, middling, it's all the same. If I have to choose, I'd rather not choose at all.",
+      "powerLevel": 93
+    }
+  },
+  {
+    "id": "char-gaming-3",
+    "categoryId": "gaming",
+    "franchise": "Cyberpunk 2077",
+    "name": "Johnny Silverhand",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    "series": "Cyberpunk 2077",
+    "biography": "Johnny Silverhand was the frontman of Samurai and a loud critic of corporations like Arasaka. Long after his death, a digital copy of him ends up in V's head through the Relic. Johnny is not exactly an easy roommate, and the two are forced to figure out what to do next together.",
+    "traits": {
+      "role": "Rockerboy / Revolutionary Enigma",
+      "abilities": "Malorian Arms 3516 marksmanship, Cybernetic silver arm, Cyberpunk charisma",
+      "voiceActor": "Keanu Reeves",
+      "debut": "Cyberpunk 2077 (2020)",
+      "quote": "Wake the f*** up, Samurai. We have a city to burn.",
+      "powerLevel": 91
+    }
+  },
+  {
+    "id": "char-gaming-4",
+    "categoryId": "gaming",
+    "franchise": "The Legend of Zelda",
+    "name": "Link",
+    "image": "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?auto=format&fit=crop&w=800&q=80",
+    "series": "The Legend of Zelda: Tears of the Kingdom",
+    "biography": "Link is Hyrule's quiet hero, known for taking on impossible odds rather than backing away from them. In Tears of the Kingdom, he explores the skies and depths of Hyrule with new abilities granted through his arm, all while trying to find Zelda and protect the kingdom.",
+    "traits": {
+      "role": "Champion of Hyrule / Hero of the Wild",
+      "abilities": "Ultrahand, Fuse, Ascend, Recall, Master Sword swordsmanship",
+      "voiceActor": "Kengo Takanashi",
+      "debut": "The Legend of Zelda (1986)",
+      "quote": "...HYAAAH!",
+      "powerLevel": 95
+    }
+  },
+  {
+    "id": "char-gaming-5",
+    "categoryId": "gaming",
+    "franchise": "Final Fantasy",
+    "name": "Cloud Strife",
+    "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=800&q=80",
+    "series": "Final Fantasy VII Rebirth",
+    "biography": "Cloud starts out as a mercenary in Midgar, carrying the enormous Buster Sword and keeping most people at a distance. His work with Avalanche pulls him into a much bigger conflict with Sephiroth and the fate of the planet. As the journey goes on, Cloud also has to sort through his own memories and identity.",
+    "traits": {
+      "role": "Ex-SOLDIER / Mercenary",
+      "abilities": "Buster Sword, Omnislash Limit Break, Mako Infusion, Materia Magic",
+      "voiceActor": "Takahiro Sakurai / Cody Christian",
+      "debut": "Final Fantasy VII (1997)",
+      "quote": "Not interested. But I won't let Sephiroth destroy this world.",
+      "powerLevel": 94
+    }
+  },
+  {
+    "id": "char-movies-1",
+    "categoryId": "movies",
+    "franchise": "Marvel Cinematic Universe",
+    "name": "Tony Stark (Iron Man)",
+    "image": "https://images.unsplash.com/photo-1635863138275-d9b33299680b?auto=format&fit=crop&w=800&q=80",
+    "series": "Marvel Avengers / Iron Man",
+    "biography": "Tony Stark begins as a brilliant inventor who thinks he can solve everything on his own. Building the Iron Man armor changes how he sees his work and the people affected by it. Over the years, he becomes one of the Avengers' most important members and makes the ultimate sacrifice to stop Thanos.",
+    "traits": {
+      "role": "Founding Avenger / Stark Industries CEO",
+      "abilities": "Nanotech Mark 85 Armor, Genius-level Intellect, Repulsor Beams, Friday AI",
+      "voiceActor": "Robert Downey Jr.",
+      "debut": "Iron Man (2008)",
+      "quote": "And I... am... Iron Man.",
+      "powerLevel": 96
+    }
+  },
+  {
+    "id": "char-movies-2",
+    "categoryId": "movies",
+    "franchise": "Spider-Man",
+    "name": "Miles Morales (Spider-Man)",
+    "image": "https://images.unsplash.com/photo-1604200213928-ba3cf4fc8436?auto=format&fit=crop&w=800&q=80",
+    "series": "Spider-Man: Across the Spider-Verse",
+    "biography": "Miles is a Brooklyn teenager trying to balance family, school, and being Spider-Man. In Across the Spider-Verse, he is pulled into the Spider-Society and clashes with its rules about how his story is supposed to go. Miles wants to protect the people he loves and make his own choices.",
+    "traits": {
+      "role": "Spider-Man of Earth-1610",
+      "abilities": "Bio-electric Venom Strike, Camouflage Invisibility, Spider-Sense, Wall-crawling",
+      "voiceActor": "Shameik Moore",
+      "debut": "Spider-Man: Into the Spider-Verse (2018)",
+      "quote": "Everyone keeps telling me how my story is supposed to go. Nah. Imma do my own thing.",
+      "powerLevel": 93
+    }
+  },
+  {
+    "id": "char-movies-3",
+    "categoryId": "movies",
+    "franchise": "Dune",
+    "name": "Paul Atreides (Muad'Dib)",
+    "image": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?auto=format&fit=crop&w=800&q=80",
+    "series": "Dune: Part One & Part Two",
+    "biography": "Paul is the heir to House Atreides, whose move to Arrakis changes his life completely. He learns from the Fremen and begins to understand the future he may be heading toward. His choices carry enormous consequences for the people of Arrakis and beyond.",
+    "traits": {
+      "role": "Duke of Arrakis / Fremen Prophet",
+      "abilities": "Prescience / Future Sight, The Voice (Bene Gesserit), Prana-bindu conditioning, Crysknife combat",
+      "voiceActor": "Timothée Chalamet",
+      "debut": "Dune (2021)",
+      "quote": "May thy knife chip and shatter.",
+      "powerLevel": 97
+    }
+  },
+  {
+    "id": "char-movies-4",
+    "categoryId": "movies",
+    "franchise": "The Dark Knight",
+    "name": "Bruce Wayne (Batman)",
+    "image": "https://images.unsplash.com/photo-1509281373149-e957c6296406?auto=format&fit=crop&w=800&q=80",
+    "series": "The Dark Knight Trilogy",
+    "biography": "Bruce Wayne uses his resources, detective skills, and years of training to protect Gotham as Batman. He has no superpowers, so he relies on preparation and persistence. His work often puts him up against criminals who know exactly how to exploit the city's weaknesses.",
+    "traits": {
+      "role": "The Dark Knight / Detective",
+      "abilities": "Master Tactician, Peak Human Conditioning, Batmobile / Tumbler, Batarangs & Grapple",
+      "voiceActor": "Christian Bale",
+      "debut": "Batman Begins (2005)",
+      "quote": "It's not who I am underneath, but what I do that defines me.",
+      "powerLevel": 92
+    }
+  },
+  {
+    "id": "char-movies-5",
+    "categoryId": "movies",
+    "franchise": "Star Wars",
+    "name": "Darth Vader (Anakin Skywalker)",
+    "image": "https://images.unsplash.com/photo-1546776310-eef45dd6d63c?auto=format&fit=crop&w=800&q=80",
+    "series": "Star Wars Saga",
+    "biography": "Anakin Skywalker was once a Jedi with a promising future, but fear and the influence of Palpatine led him to the dark side. As Darth Vader, he serves the Empire in life-support armor. His past as Anakin never fully disappears, even after everything he has done.",
+    "traits": {
+      "role": "Sith Lord / Supreme Commander of the Imperial Fleet",
+      "abilities": "Dark Side Force Choke & Telekinesis, Form V Lightsaber Mastery, Unmatched Pilot",
+      "voiceActor": "James Earl Jones / Hayden Christensen",
+      "debut": "Star Wars: A New Hope (1977)",
+      "quote": "I find your lack of faith disturbing.",
+      "powerLevel": 98
+    }
+  },
+  {
+    "id": "char-tv-1",
+    "categoryId": "tv-shows",
+    "franchise": "Stranger Things",
+    "name": "Eleven (Jane Hopper)",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+    "series": "Stranger Things",
+    "biography": "Eleven escapes from Hawkins Lab with powers she is still learning to understand. Mike, Dustin, Lucas, and Hopper become her friends and family, helping her build a life beyond the lab. Her connection to the Upside Down keeps drawing her into danger, and she often has to use her abilities to protect the people she loves.",
+    "traits": {
+      "role": "Psychokinetic Heroine",
+      "abilities": "Telekinesis, Remote Viewing, Astral Projection, Inter-dimensional gate control",
+      "voiceActor": "Millie Bobby Brown",
+      "debut": "Season 1 Episode 1",
+      "quote": "Friends don't lie.",
+      "powerLevel": 95
+    }
+  },
+  {
+    "id": "char-tv-2",
+    "categoryId": "tv-shows",
+    "franchise": "Arcane",
+    "name": "Jinx (Powder)",
+    "image": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&w=800&q=80",
+    "series": "Arcane: League of Legends",
+    "biography": "Jinx is a brilliant inventor from Zaun whose relationship with her sister Vi was changed by a painful childhood tragedy. She builds weapons like Fishbones and Pow-Pow, and her actions often push the conflict between Zaun and Piltover further out of control. Underneath the chaos, she is still trying to make sense of who she is to the people she loves.",
+    "traits": {
+      "role": "Zaun Anarchist / Hextech Weapons Inventor",
+      "abilities": "Superhuman Speed & Reflexes (Shimmer infusion), Demolitions Mastery, Fishbones Rocket Launcher",
+      "voiceActor": "Ella Purnell",
+      "debut": "Season 1 Episode 1",
+      "quote": "I thought maybe you could love me like you used to. Even though I'm different.",
+      "powerLevel": 92
+    }
+  },
+  {
+    "id": "char-tv-3",
+    "categoryId": "tv-shows",
+    "franchise": "The Last of Us",
+    "name": "Joel Miller",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+    "series": "The Last of Us (HBO)",
+    "biography": "Joel has spent years surviving in a world devastated by the Cordyceps outbreak. He is asked to escort Ellie across the country, and their uneasy partnership slowly becomes something much closer. His past loss shapes the way he protects her, sometimes with consequences neither of them can escape.",
+    "traits": {
+      "role": "Smuggler / Protector",
+      "abilities": "Guerilla Tactics, Improvised Crafting, Stealth Combat, Marksmanship",
+      "voiceActor": "Pedro Pascal",
+      "debut": "Season 1 Episode 1",
+      "quote": "You have no idea what loss is. But you keep going for family.",
+      "powerLevel": 88
+    }
+  },
+  {
+    "id": "char-tv-4",
+    "categoryId": "tv-shows",
+    "franchise": "House of the Dragon",
+    "name": "Daemon Targaryen",
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80",
+    "series": "House of the Dragon",
+    "biography": "Daemon is the younger brother of King Viserys and a dragonrider bonded with Caraxes. Brave, volatile, and ambitious, he rarely follows the path expected of him. His choices make him a powerful ally to Rhaenyra and a dangerous opponent to anyone who stands in his way.",
+    "traits": {
+      "role": "Prince of Westeros / Dragonrider",
+      "abilities": "Dark Sister Valyrian Sword combat, Dragonriding (Caraxes), Battle Strategy",
+      "voiceActor": "Matt Smith",
+      "debut": "Season 1 Episode 1",
+      "quote": "Dreams didn't make us kings. Dragons did.",
+      "powerLevel": 94
+    }
+  },
+  {
+    "id": "char-tv-5",
+    "categoryId": "tv-shows",
+    "franchise": "Breaking Bad",
+    "name": "Walter White (Heisenberg)",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80",
+    "series": "Breaking Bad",
+    "biography": "Walter White is a chemistry teacher whose cancer diagnosis leads him into the drug trade. He says he is doing it for his family, but pride and the power he gains start to shape his choices. His transformation into Heisenberg is at the heart of Breaking Bad.",
+    "traits": {
+      "role": "Master Chemist / Drug Lord",
+      "abilities": "Chemical Engineering Prowess, Psychological Manipulation, Tactical Forethought",
+      "voiceActor": "Bryan Cranston",
+      "debut": "Season 1 Episode 1",
+      "quote": "I am the one who knocks!",
+      "powerLevel": 90
+    }
+  },
+  {
+    "id": "char-kpop-1",
+    "categoryId": "k-pop",
+    "franchise": "BTS",
+    "name": "RM (Kim Namjoon)",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+    "series": "BTS (Big Hit Music / HYBE)",
+    "biography": "RM is the leader of BTS and is known for his thoughtful lyrics and work as a rapper and producer. He has also released music as a solo artist and spoken publicly about identity and self-expression. His curiosity and love of language often show up in his work.",
+    "traits": {
+      "role": "BTS Leader / Main Rapper / Producer",
+      "abilities": "Flow Versatility, Songwriting & Production, Philosophical Storytelling, Global Diplomacy",
+      "voiceActor": "RM (Self)",
+      "debut": "June 13, 2013 (No More Dream)",
+      "quote": "No matter who you are, where you're from, your skin colour, gender identity: speak yourself.",
+      "powerLevel": 96
+    }
+  },
+  {
+    "id": "char-kpop-2",
+    "categoryId": "k-pop",
+    "franchise": "BLACKPINK",
+    "name": "Jennie Kim",
+    "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+    "series": "BLACKPINK (YG Entertainment / OA)",
+    "biography": "Jennie is a rapper and vocalist in BLACKPINK, as well as a solo artist. She is known for her confident stage presence and a style that moves easily between music and fashion. Her solo songs, including 'SOLO', have given fans another side of her work to follow.",
+    "traits": {
+      "role": "BLACKPINK Main Rapper / Vocalist / Fashion Icon",
+      "abilities": "Rapid Rap Cadence, Stage Presence, Global Fashion Trendsetter, Vocal Versatility",
+      "voiceActor": "Jennie (Self)",
+      "debut": "August 8, 2016 (Whistle)",
+      "quote": "Bitch, I'm a shining solo.",
+      "powerLevel": 95
+    }
+  },
+  {
+    "id": "char-kpop-3",
+    "categoryId": "k-pop",
+    "franchise": "Stray Kids",
+    "name": "Bang Chan",
+    "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+    "series": "Stray Kids (JYP Entertainment / 3RACHA)",
+    "biography": "Bang Chan is the leader of Stray Kids and part of the producing unit 3RACHA. He works across songwriting, production, vocals, and performance, helping shape the group's sound. Fans also know him for the close connection he keeps with the group's audience.",
+    "traits": {
+      "role": "Stray Kids Leader / 3RACHA Producer / Vocalist",
+      "abilities": "Music Production (DAW Mastery), Intense Choreography, Multilingual Communication",
+      "voiceActor": "Bang Chan (Self)",
+      "debut": "March 25, 2018 (District 9)",
+      "quote": "Stray Kids everywhere all around the world. You make Stray Kids stay.",
+      "powerLevel": 94
+    }
+  },
+  {
+    "id": "char-kpop-4",
+    "categoryId": "k-pop",
+    "franchise": "NewJeans",
+    "name": "Hanni Pham",
+    "image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+    "series": "NewJeans (ADOR / HYBE)",
+    "biography": "Hanni is a Vietnamese-Australian singer in NewJeans. Her warm vocals and relaxed performance style stand out in songs such as 'Hype Boy' and 'OMG'. She has also taken part in songwriting and brings an easy, playful energy to the group.",
+    "traits": {
+      "role": "NewJeans Vocalist / Dancer / Lyricist",
+      "abilities": "Honey Vocals, Y2K Nostalgic Groove, Ukulele & Acoustic Guitar, Lyric Writing",
+      "voiceActor": "Hanni (Self)",
+      "debut": "July 22, 2022 (Attention)",
+      "quote": "Cause I know what you like boy, you're my chemical hype boy.",
+      "powerLevel": 91
+    }
+  },
+  {
+    "id": "char-kpop-5",
+    "categoryId": "k-pop",
+    "franchise": "aespa",
+    "name": "Karina (Yoo Ji-min)",
+    "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=80",
+    "series": "aespa (SM Entertainment)",
+    "biography": "Karina is the leader of aespa and is known for her dance, stage presence, and sharp performance style. The group's sci-fi concept runs through songs like 'Next Level' and 'Supernova', with Karina often at the centre of its story and visuals.",
+    "traits": {
+      "role": "aespa Leader / Main Dancer / Center",
+      "abilities": "High-speed Precision Choreography, Kwangya Metaverse Sync, Vocal Belting",
+      "voiceActor": "Karina (Self)",
+      "debut": "November 17, 2020 (Black Mamba)",
+      "quote": "I'm the drama. It all begins with me.",
+      "powerLevel": 93
+    }
+  },
+  {
+    "id": "char-comics-1",
+    "categoryId": "comics",
+    "franchise": "Marvel Comics",
+    "name": "Peter Parker (The Amazing Spider-Man)",
+    "image": "https://images.unsplash.com/photo-1604200213928-ba3cf4fc8436?auto=format&fit=crop&w=800&q=80",
+    "series": "The Amazing Spider-Man (Marvel)",
+    "biography": "Peter Parker gets his spider-like powers as a teenager and learns from Uncle Ben that having power means taking responsibility for how he uses it. Since then, he has tried to balance everyday problems with protecting New York as Spider-Man. That mix of ordinary life and superhero trouble is a big part of his appeal.",
+    "traits": {
+      "role": "Superhero / Daily Bugle Freelancer",
+      "abilities": "Spider-Sense precognition, Web-shooter invention, Wall-crawling, 10-ton proportional strength",
+      "voiceActor": "Created by Stan Lee & Steve Ditko",
+      "debut": "Amazing Fantasy #15 (1962)",
+      "quote": "With great power comes great responsibility.",
+      "powerLevel": 92
+    }
+  },
+  {
+    "id": "char-comics-2",
+    "categoryId": "comics",
+    "franchise": "DC Comics",
+    "name": "Clark Kent (Superman)",
+    "image": "https://images.unsplash.com/photo-1569003339405-ea396a5a8a90?auto=format&fit=crop&w=800&q=80",
+    "series": "Action Comics / DC Universe",
+    "biography": "Kal-El was sent from Krypton as a baby and raised by Jonathan and Martha Kent in Smallville. On Earth, he became Superman, using his powers to protect people while holding on to the values his parents taught him. Clark's life as a reporter helps keep him connected to the people he serves.",
+    "traits": {
+      "role": "Man of Steel / Justice League Leader",
+      "abilities": "Superhuman strength & speed, Heat vision, Freeze breath, Invulnerability, Flight",
+      "voiceActor": "Created by Jerry Siegel & Joe Shuster",
+      "debut": "Action Comics #1 (1938)",
+      "quote": "There is a right and a wrong in the universe, and that distinction is not hard to make.",
+      "powerLevel": 99
+    }
+  },
+  {
+    "id": "char-comics-3",
+    "categoryId": "comics",
+    "franchise": "X-Men",
+    "name": "Wolverine (Logan)",
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80",
+    "series": "Uncanny X-Men / Wolverine (Marvel)",
+    "biography": "Logan is a mutant with a powerful healing factor, heightened senses, and a long, complicated past. The Weapon X program bonded adamantium to his skeleton and turned him into a formidable fighter. He can be rough around the edges, but his loyalty to the people he cares about runs deep.",
+    "traits": {
+      "role": "X-Men Operative / Weapon X Survivor",
+      "abilities": "Adamantium Claws & Skeleton, Rapid Cellular Regeneration, Berserker Rage",
+      "voiceActor": "Created by Roy Thomas, Len Wein & John Romita Sr.",
+      "debut": "The Incredible Hulk #180 (1974)",
+      "quote": "I'm the best there is at what I do. But what I do best isn't very nice.",
+      "powerLevel": 94
+    }
+  },
+  {
+    "id": "char-comics-4",
+    "categoryId": "comics",
+    "franchise": "Image Comics",
+    "name": "Mark Grayson (Invincible)",
+    "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?auto=format&fit=crop&w=800&q=80",
+    "series": "Invincible (Image Comics)",
+    "biography": "Mark is a high school student whose Viltrumite powers appear just as he starts learning what his father has been hiding. Becoming Invincible means facing threats he is not always ready for and deciding what kind of hero he wants to be. His family history makes that choice much harder.",
+    "traits": {
+      "role": "Viltrumite Defender / Guardian of the Globe",
+      "abilities": "Viltrumite physiology, Atmospheric flight, Extreme durability, Accelerated healing",
+      "voiceActor": "Created by Robert Kirkman & Cory Walker",
+      "debut": "Invincible #1 (2003)",
+      "quote": "I'll still have you, Dad.",
+      "powerLevel": 95
+    }
+  },
+  {
+    "id": "char-comics-5",
+    "categoryId": "comics",
+    "franchise": "DC Vertigo",
+    "name": "Dream of the Endless (Morpheus)",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=800&q=80",
+    "series": "The Sandman (DC / Vertigo)",
+    "biography": "Morpheus, also known as Dream, rules the Dreaming and is one of the Endless, beings tied to the oldest parts of existence. After decades in captivity, he returns to a realm that has changed without him. Reclaiming his tools is only the beginning; he also has to face the choices he made before his imprisonment.",
+    "traits": {
+      "role": "Lord of the Dreaming / One of the Seven Endless",
+      "abilities": "Dream Reality Manipulation, Immortality, Omnipresence in the Dreaming realm",
+      "voiceActor": "Created by Neil Gaiman, Sam Kieth & Mike Dringenberg",
+      "debut": "The Sandman #1 (1989)",
+      "quote": "You say that I have no power here. Perhaps you speak truly... But what power would Hell have if those here imprisoned could not dream of heaven?",
+      "powerLevel": 100
+    }
+  },
+  {
+    "id": "char-manga-1",
+    "categoryId": "manga",
+    "franchise": "Berserk",
+    "name": "Guts (The Black Swordsman)",
+    "image": "https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=800&q=80",
+    "series": "Berserk (Kentaro Miura)",
+    "biography": "Guts has known hardship from the start and grows up fighting as a mercenary. He later joins the Band of the Falcon, but Griffith's betrayal changes his life and leaves him marked by the Brand of Sacrifice. Carrying the enormous Dragon Slayer, Guts keeps moving forward even when the odds are awful.",
+    "traits": {
+      "role": "The Black Swordsman / Brand of Sacrifice Bearer",
+      "abilities": "Dragon Slayer greatsword mastery, Berserker Armor, Prosthetic Arm Cannon & Repeater Crossbow",
+      "voiceActor": "Created by Kentaro Miura",
+      "debut": "Berserk Chapter 1 (1989)",
+      "quote": "He who acts out of love is immortal. Struggle, contend, wriggle! That alone is the sword of one who confronts death!",
+      "powerLevel": 97
+    }
+  },
+  {
+    "id": "char-manga-2",
+    "categoryId": "manga",
+    "franchise": "Chainsaw Man",
+    "name": "Denji (Chainsaw Man)",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=800&q=80",
+    "series": "Chainsaw Man (Tatsuki Fujimoto)",
+    "biography": "Denji grows up struggling with debt and has very simple hopes for a better life. After Pochita saves him, the two become one and Denji gains the power to turn parts of himself into chainsaws. He joins Public Safety as a Devil Hunter and quickly learns that the people around him have their own plans.",
+    "traits": {
+      "role": "Chainsaw Devil Hybrid / Public Safety Hunter",
+      "abilities": "Chainsaw transformation, Blood rejuvenation, Devil erasure physiology",
+      "voiceActor": "Created by Tatsuki Fujimoto",
+      "debut": "Weekly Shonen Jump #1 (2018)",
+      "quote": "If there's gonna be a hell, I'll turn it into my own damn paradise!",
+      "powerLevel": 94
+    }
+  },
+  {
+    "id": "char-manga-3",
+    "categoryId": "manga",
+    "franchise": "Vinland Saga",
+    "name": "Thorfinn Karlsefni",
+    "image": "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=800&q=80",
+    "series": "Vinland Saga (Makoto Yukimura)",
+    "biography": "Thorfinn grows up wanting revenge on Askeladd, and that goal shapes much of his early life. After years of war and hardship, he starts to question what all that violence has cost him. His later journey is about trying to live differently and finding a place where people can be free from war.",
+    "traits": {
+      "role": "Explorer / Pacifist Reformer",
+      "abilities": "Dual Dagger Lightning Reflexes, Close Quarters Krav-Maga Style Disarming, Indomitable Will",
+      "voiceActor": "Created by Makoto Yukimura",
+      "debut": "Weekly Shonen Magazine (2005)",
+      "quote": "I have no enemies. No one in the world is my enemy.",
+      "powerLevel": 91
+    }
+  },
+  {
+    "id": "char-manga-4",
+    "categoryId": "manga",
+    "franchise": "Vagabond",
+    "name": "Miyamoto Musashi (Shinmen Takezo)",
+    "image": "https://images.unsplash.com/photo-1509281373149-e957c6296406?auto=format&fit=crop&w=800&q=80",
+    "series": "Vagabond (Takehiko Inoue)",
+    "biography": "Musashi begins as a fierce young swordsman determined to become unbeatable. His travels through Japan bring him into duels and encounters that challenge what strength means to him. Over time, the story follows him from raw ambition toward a quieter understanding of skill and life.",
+    "traits": {
+      "role": "Kensei (Sword Saint) / Wandering Ronin",
+      "abilities": "Niten Ichi-ryu (Two-Heaven style), Zen sword mindfulness, Preternatural reaction time",
+      "voiceActor": "Created by Takehiko Inoue",
+      "debut": "Morning Magazine (1998)",
+      "quote": "Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest.",
+      "powerLevel": 95
+    }
+  },
+  {
+    "id": "char-manga-5",
+    "categoryId": "manga",
+    "franchise": "Solo Leveling",
+    "name": "Sung Jin-woo (Shadow Monarch)",
+    "image": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=800&q=80",
+    "series": "Solo Leveling (Chugong / DUBU)",
+    "biography": "Jin-woo starts out as one of the weakest hunters, taking dangerous jobs because his family needs the money. After surviving the Double Dungeon, he gains access to a System that lets him grow stronger. His rise changes his life, but it also draws him into a conflict far bigger than he expected.",
+    "traits": {
+      "role": "Shadow Monarch / S-Rank Hunter",
+      "abilities": "Shadow Extraction (Arise), Ruler's Authority, Monarch's Domain, Infinite Stat Scaling",
+      "voiceActor": "Created by Chugong & DUBU",
+      "debut": "KakaoPage Webtoon (2018)",
+      "quote": "Arise.",
+      "powerLevel": 100
+    }
+  }
+]

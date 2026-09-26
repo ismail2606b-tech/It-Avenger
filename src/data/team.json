@@ -1,0 +1,45 @@
+{
+  "project": {
+    "name": "FandomVerse",
+    "theme": "Fandom Universe",
+    "competition": "TechWiz 7 - Aptech World Tech Championship",
+    "category": "Web Innovation Unleashed",
+    "version": "1.0.0",
+    "description": "A clean, responsive single-page portal built for fans who want everything in one place without the usual chaos of bouncing between a hundred tabs.",
+    "mission": "To make fandom easier to enjoy by bringing together character profiles, trailers, galleries, merch, event updates, and release info in one place that actually feels usable."
+  },
+  "teamMembers": [
+    {
+      "name": "Alexander Hayes",
+      "role": "Lead Frontend Architect & UI/UX Designer",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+      "bio": "Builds the structure and visual flow of the app so it feels smooth, easy to use, and not like a cluttered fan directory from the early 2000s."
+    },
+    {
+      "name": "Mei-Ling Chen",
+      "role": "Content Curator & Data Engineer",
+      "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=400&q=80",
+      "bio": "Keeps the fandom content organized and readable, from character details to event and media data that actually makes sense when you browse it."
+    },
+    {
+      "name": "Marcus Aurelius Vance",
+      "role": "Interaction Designer & Bot Logic Engineer",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+      "bio": "Handles the interactive bits, from the chatbot logic to the bookmark system and the shopping cart behavior that keeps the demo feeling alive."
+    },
+    {
+      "name": "Seraphina Vance",
+      "role": "QA Specialist & Accessibility Advocate",
+      "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=400&q=80",
+      "bio": "Makes sure the site is still usable on mobile, easy to navigate, and not frustrating for anyone using screen readers or smaller screens."
+    }
+  ],
+  "techStack": [
+    { "name": "React 19", "role": "Component-based app structure", "badge": "Core Engine" },
+    { "name": "Vite", "role": "Fast local build and development workflow", "badge": "Build System" },
+    { "name": "Tailwind CSS v4", "role": "Quick styling and layout control", "badge": "Visuals" },
+    { "name": "Lucide React", "role": "Simple, consistent icon set", "badge": "Icons" },
+    { "name": "HTML5 Web Storage", "role": "Bookmarks, counters, and saved notes in the browser", "badge": "Persistence" },
+    { "name": "Pre-scripted JSON Data", "role": "Fast content loading without a backend", "badge": "Data Store" }
+  ]
+}

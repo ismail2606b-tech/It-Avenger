@@ -1,0 +1,87 @@
+{
+  "welcomeMessage": "👋 Hey, what are you into today? I’m VerseBot, your FandomVerse guide, and I can help you pick something to watch, read, play, or check out without the usual random internet rabbit hole.",
+  "suggestedPrompts": [
+    "Recommend a fantasy anime",
+    "Upcoming video game drops",
+    "Where can I find trailers?",
+    "Show me K-Pop comebacks",
+    "Tell me about Demon Slayer",
+    "How does the shopping cart work?",
+    "How do I save bookmarks?"
+  ],
+  "faqRules": [
+    {
+      "id": "rule-about-portal",
+      "keywords": ["fandomverse", "what is this", "website", "techwiz", "portal", "about", "who made this"],
+      "response": "FandomVerse brings anime, games, movies, TV, K-pop, comics, and manga together in one place. You can browse character profiles, trailers, galleries, upcoming releases, and merch without jumping between different sites.",
+      "action": { "label": "Explore About Us", "page": "about" }
+    },
+    {
+      "id": "rule-anime-recommend",
+      "keywords": ["anime", "recommend anime", "watch anime", "shonen", "frieren", "demon slayer", "jujutsu"],
+      "response": "If you want something thoughtful and a little emotional, 'Frieren: Beyond Journey's End' is a great pick. If you want more action and flashy fights, 'Demon Slayer' and 'Jujutsu Kaisen' are easy wins.",
+      "action": { "label": "Jump to Anime Hub", "page": "category", "category": "anime" }
+    },
+    {
+      "id": "rule-gaming-goty",
+      "keywords": ["game", "gaming", "rpg", "elden ring", "zelda", "cyberpunk", "recommend game"],
+      "response": "If you want a game with a huge world and a real sense of discovery, 'Elden Ring' is the classic answer. If you want something more stylish and open, 'Cyberpunk 2077' or 'The Legend of Zelda: Tears of the Kingdom' are both solid.",
+      "action": { "label": "Jump to Gaming Hub", "page": "category", "category": "gaming" }
+    },
+    {
+      "id": "rule-movies-trailers",
+      "keywords": ["movie", "cinema", "trailer", "dune", "avengers", "spider-man", "imax"],
+      "response": "We've got a pretty solid media hub with crunchier trailer drops, interviews, and behind-the-scenes stuff for things like 'Dune', 'Avengers', and 'Spider-Man'.",
+      "action": { "label": "Go to Trailers & Media", "page": "media" }
+    },
+    {
+      "id": "rule-tv-shows",
+      "keywords": ["tv", "series", "stranger things", "arcane", "last of us", "house of the dragon"],
+      "response": "TV really is in a good era right now. 'Arcane' is still a standout for visuals and story, and 'Stranger Things' is one of those shows that manages to be both nostalgic and intense at the same time.",
+      "action": { "label": "Jump to TV Shows Hub", "page": "category", "category": "tv-shows" }
+    },
+    {
+      "id": "rule-kpop",
+      "keywords": ["kpop", "k-pop", "bts", "blackpink", "newjeans", "stray kids", "aespa", "army", "blink"],
+      "response": "There is plenty to explore in K-pop: BTS has a reunion-era release listed, NewJeans is known for its nostalgic pop sound, and BLACKPINK brings a bold style to its music and performances.",
+      "action": { "label": "Jump to K-Pop Hub", "page": "category", "category": "k-pop" }
+    },
+    {
+      "id": "rule-comics-manga",
+      "keywords": ["comic", "manga", "berserk", "superman", "batman", "solo leveling", "graphic novel"],
+      "response": "Whether you are into superhero comics, dark fantasy manga, or those long-running series people obsess over, there is a lot here to dig into. 'Berserk', 'Solo Leveling', and the big DC stuff are all good examples.",
+      "action": { "label": "Jump to Manga Hub", "page": "category", "category": "manga" }
+    },
+    {
+      "id": "rule-merch-cart",
+      "keywords": ["cart", "merchandise", "shop", "buy", "t-shirt", "figure", "store", "price", "checkout"],
+      "response": "You can browse merch, figures, apparel, and little fan collectibles in the merchandise section. Add a few things to the cart and the total updates automatically for the demo experience.",
+      "action": { "label": "Open Merchandise Showcase", "page": "merchandise" }
+    },
+    {
+      "id": "rule-bookmarks-notes",
+      "keywords": ["bookmark", "favorite", "notes", "save", "export", "local storage"],
+      "response": "You can bookmark characters, articles, trailers, and events with the little save icon. It stays in your browser, and you can even add quick notes if you want to keep track of what you liked.",
+      "action": { "label": "Open Bookmarks Manager", "page": "bookmarks" }
+    },
+    {
+      "id": "rule-events",
+      "keywords": ["event", "convention", "con", "anime expo", "comic-con", "kcon", "meetup"],
+      "response": "There are a lot of events listed here, from big fan conventions to watch parties and gaming showcases. If you are looking for the big-name stuff, Anime Expo, Comic-Con, and KCON are the obvious ones.",
+      "action": { "label": "View Event Highlights", "page": "events" }
+    },
+    {
+      "id": "rule-releases",
+      "keywords": ["release", "calendar", "upcoming", "schedule", "when does", "date"],
+      "response": "The release radar keeps upcoming shows, games, films, and albums together, so it is easy to see what is next.",
+      "action": { "label": "View Release Radar", "page": "releases" }
+    },
+    {
+      "id": "rule-contact",
+      "keywords": ["contact", "support", "location", "email", "map", "gps", "help desk"],
+      "response": "If you need to reach the team or check the project details, the contact section has the info and the location stuff set up for that.",
+      "action": { "label": "Contact Us", "page": "contact" }
+    }
+  ],
+  "defaultFallback": "That sounds interesting. If you want, you can browse the category hubs, use the site search, or just jump into the characters, trailers, and upcoming release pages and see where the rabbit hole takes you."
+}
